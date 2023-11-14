@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+footer{
+  text-align: right;
+  padding: 10px;
+}
+table{
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+td{
+  text-align: left;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+th{
+ 
+  color: pink;
+  text-align: center;
+  border: 1px solid black;
+  text-shadow: 1px 1px 2px black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+h1{
+  color: pink;
+  text-shadow: 1px 1px 3px black;
+  text-align: center;
+  font-style: italic;
+}
+a{
+  color: pink;
+  text-align: center;
+  font-style: italic;
+}
+dd{
+  text-align: center;
+
+}
