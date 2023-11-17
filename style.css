@@ -2,24 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
-footer{
+footer {
   text-align: right;
   padding: 10px;
 }
-table{
+table {
   text-align: center;
   border: 1px solid black;
   border-collapse: collapse;
   padding: 5px;
 }
-td{
+td {
   text-align: left;
   border: 1px solid black;
   border-collapse: collapse;
   padding: 5px;
 }
-th{
- 
+th {
   color: pink;
   text-align: center;
   border: 1px solid black;
@@ -27,18 +26,17 @@ th{
   border-collapse: collapse;
   padding: 5px;
 }
-h1{
+h1 {
   color: pink;
   text-shadow: 1px 1px 3px black;
   text-align: center;
   font-style: italic;
 }
-a{
+a {
   color: pink;
   text-align: center;
   font-style: italic;
 }
-dd{
+dd {
   text-align: center;
-
 }
