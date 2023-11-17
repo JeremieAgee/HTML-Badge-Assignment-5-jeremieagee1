@@ -23,3 +23,6 @@
 <p>
   Parts of the CSS and HTML were referenced from w3schools and MDN.
 </p>
+<p>
+  Github pages https://jeremieagee.github.io/HTML-Badge-Assignment-5-jeremieagee1/
+</p>
